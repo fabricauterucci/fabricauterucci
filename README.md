@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 # 💫 About Me:
 Software programmer with over two years of experience working with both client-side and server-side technologies.<br><br>Focused on frontend development.
 
